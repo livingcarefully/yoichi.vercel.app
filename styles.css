@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Nunito', sans-serif;
-  background: url('1231482.jpg') no-repeat center center/cover;
+  background: url('assets/background.jpg') no-repeat center center/cover;
   background-size: 150%;
   transition: background-position 0.3s ease;
   display: flex;
@@ -62,6 +62,7 @@ body {
   background: rgba(255,255,255,0.35);
   transform: scale(1.1);
 }
+
 
 
 
