@@ -8,7 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 200vh;
   color: #fff;
 }
 .card {
@@ -21,27 +21,27 @@ body {
   box-shadow: 0 8px 30px rgba(0,0,0,0.2);
 }
 .avatar {
-  width: 110px;
-  height: 110px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 18px;
   border: 2px solid rgba(255,255,255,0.5);
 }
 .name {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   font-weight: 600;
   margin-bottom: 6px;
 }
 .bio {
-  font-size: 0.95rem;
+  font-size: 1.00rem;
   color: #e0e0e0;
   margin-bottom: 20px;
 }
 .links {
   display: flex;
   justify-content: center;
-  gap: 15px;
+  gap: 20px;
 }
 .links a {
   display: flex;
@@ -60,5 +60,6 @@ body {
   background: rgba(255,255,255,0.35);
   transform: scale(1.1);
 }
+
 
 
