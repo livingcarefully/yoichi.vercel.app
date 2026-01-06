@@ -37,7 +37,7 @@ body {
 }
 .name {
   font-size: 2.0rem;
-  font-weight: 600;
+  font-weight: 300;
   margin-bottom: 6px;
 }
 .bio {
@@ -67,6 +67,7 @@ body {
   background: rgba(255,255,255,0.35);
   transform: scale(1.1);
 }
+
 
 
 
